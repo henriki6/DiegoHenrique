@@ -39,18 +39,3 @@ Atualmente cursando **Gestão da Tecnologia da Informação** na **Universidade 
 
 ---
 
-### 🏗 Estrutura do Repositório
-Organização deste repositório para facilitar a navegação:
-
-- `root/`: Arquivo de apresentação principal.
-- `/programacao-computadores/`: Atividades da disciplina de Programação de Computadores.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriki6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriki6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
