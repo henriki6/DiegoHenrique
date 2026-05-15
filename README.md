@@ -32,10 +32,5 @@ Atualmente cursando **Gestão da Tecnologia da Informação** na **Universidade 
 
 ### 📂 Portfólio de Projetos
 
-#### 🐍 Python & Programação
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Atividades - Programação de Computadores** | Exercícios e projetos desenvolvidos na disciplina de Programação de Computadores na UNICID. | [Ver Projetos](./programacao-computadores/) |
 
----
 
